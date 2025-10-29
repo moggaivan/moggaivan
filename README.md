@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @moggaivan
 - 👀 I’m interested in web development  
-- 🌱 I’m currently learning information technology 
-- 💞️ I’m looking to collaborate on an animation project 
+- 🌱 I’m currently learning information technology  
 - 📫 How to reach me @moggaivan23@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: gyming 🏋️
